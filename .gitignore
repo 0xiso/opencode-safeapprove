@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+
+# Local secrets and overrides
+.env
+.env.*
+!.env.example
+
+# Local playground output (bench/ data is committed on purpose)
+/tmp/
+bench/out.jsonl
+bench/*.out.jsonl

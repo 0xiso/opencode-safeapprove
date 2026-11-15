@@ -1,0 +1,5 @@
+[
+ { "model": "iceman-contributor-free", "reason": "blocked by the workspace privacy setting (the model trains on request data)" },
+ { "model": "muse-spark-1.2-contributor", "reason": "blocked by the workspace privacy setting (the model trains on request data)" },
+ { "model": "muse-spark-1.3-contributor", "reason": "blocked by the workspace privacy setting (the model trains on request data)" }
+]
